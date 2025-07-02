@@ -28,4 +28,4 @@ This project is part of my #100DaysOfCode journey to strengthen logic building a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Hangman-Game-Python.git
+   git clone https://github.com/atulsain/Hangman-Game-Python.git
